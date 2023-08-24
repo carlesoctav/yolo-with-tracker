@@ -1,0 +1,5 @@
+.venv
+testing2.mp4
+exp/datasets
+exp/datasets/path
+exp/runs/
